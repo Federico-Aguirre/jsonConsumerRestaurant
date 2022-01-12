@@ -1,0 +1,99 @@
+[
+    {
+        "albumId": 1,
+        "id": 1,
+        "title": "Ñoquis rellenos con salsa boloñesa",
+        "urlComida": "./imagenes/nioquis.jpeg",
+        "precio": "365 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 2,
+        "title": "Milanesa de berenjena con ensalada",
+        "urlComida": "./imagenes/milanesa.jpeg",
+        "precio": "475 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 3,
+        "title": "Paella de mariscos",
+        "urlComida": "./imagenes/paella.jpg",
+        "precio": "640 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 4,
+        "title": "Fideos con salsa de hongos",
+        "urlComida": "./imagenes/fideos.jpeg",
+        "precio": "320 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 5,
+        "title": "Pescado con papas",
+        "urlComida": "./imagenes/pescado.jpg",
+        "precio": "410 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 6,
+        "title": "Pollo a la parmesana",
+        "urlComida": "./imagenes/pollo.jpg",
+        "precio": "360 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 7,
+        "title": "Sushi",
+        "urlComida": "./imagenes/sushi.jpg",
+        "precio": "700 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 8,
+        "title": "Hamburguesa con lechuga tomate y queso",
+        "urlComida": "./imagenes/hamburguesa.jpg",
+        "precio": "460 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 9,
+        "title": "Ravioles con salsa roja",
+        "urlComida": "./imagenes/ravioles.jpg",
+        "precio": "580 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 10,
+        "title": "Lasaña",
+        "urlComida": "./imagenes/lasania.jpg",
+        "precio": "640 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 11,
+        "title": "Pizza de espagueti",
+        "urlComida": "./imagenes/pizza.jpg",
+        "precio": "550 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 12,
+        "title": "Empanadas",
+        "urlComida": "./imagenes/empanadas.jpeg",
+        "precio": "460 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 13,
+        "title": "Tarta de verdura con queso",
+        "urlComida": "./imagenes/tarta.png",
+        "precio": "320 $ARS"
+    },
+    {
+        "albumId": 1,
+        "id": 14,
+        "title": "Imagen de introducción",
+        "urlComida": "./imagenes/imagenIntro.jpg"
+    }
+]
