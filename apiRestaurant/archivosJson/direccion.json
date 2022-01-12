@@ -1,0 +1,16 @@
+[
+    {
+        "direccion": "Esmeralda 2078",
+        "numero": "1125865478",
+        "dias": "Lunes - Sabado",
+        "horarios": "12:00pm - 19:00pm",
+        "id": "1"
+    },
+    {
+        "direccion": "Constitución 5135",
+        "numero": "1125865478",
+        "dias": "Lunes - Sabado",
+        "horarios": "09:00am - 21:00pm",
+        "id": "2"
+    }
+]

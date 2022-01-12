@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./main.css">
+    <title>Restaurante Sitio Web</title>
+</head>
+
+<body>
+
+    <header class="header">
+        <a href="#header__inicio" class="header__inicio">Inicio</a>
+        <a href="#menu" class="header__menu">Menu</a>
+        <a href="#dirección" class="header__direccion">Dirección</a>
+        <button class="header__navBar">
+            <div class="header__navBar__line"></div>
+            <div class="header__navBar__line"></div>
+        </button>
+    </header>
+
+    <div id="contenedorGeneral">
+
+        <seccion class="contenedorInicio" id="header__inicio">
+            <div class="contenedorInicio__logo">Somos el mejor restaurante del país</div>
+            <img src="" alt="" class="contenedorInicio__imagenDerecha">
+            <a href="#header__menu" class="contenedorInicio__callToAction">Ordene su pedido</a>
+        </seccion>
+
+        <seccion class="contenedorMenu" id="header__menu">
+
+            <div class="contenedorMenu__contenedorComidas"></div>
+            <div class="contenedorMenu__contenedorTexto">
+                <div class="contenedorMenu__contenedorTexto__titulo">Lista de precios</div>
+            </div>
+
+        </seccion>
+
+        <seccion class="contenedorDirección">
+            <div class="contenedorDirección__ubicacion">
+                <div class="contenedorDirección__tituloDireccion">DIRECCIÓN</div>
+                <div class="contenedorDirección__texto"></div><br>
+                <div class="contenedorDirección__tituloNumero">Numero</div>
+                <div class="contenedorDirección__numero"></div><br>
+
+                <div class="contenedorDirección__tituloDias">HORARIOS HABILES</div>
+                <div class="contenedorDirección__dias"></div>
+                <div class="contenedorDirección__horas"></div>
+            </div>
+
+            <div class="contenedorDirección__ubicacion2">
+                <div class="contenedorDirección__tituloDireccion">DIRECCIÓN</div>
+                <div class="contenedorDirección__texto2"></div><br>
+                <div class="contenedorDirección__tituloNumero">Numero</div>
+                <div class="contenedorDirección__numero2"></div><br>
+
+                <div class="contenedorDirección__tituloDias">HORARIOS HABILES</div>
+                <div class="contenedorDirección__dias2"></div>
+                <div class="contenedorDirección__horas2"></div>
+            </div>
+
+            <div class="contenedorDirección__contenedorIconos">
+                <a href="">
+                    <img src="./imagenes/facebook.svg" class="contenedorDirección__contenedorIconos__facebook" alt="" />
+                </a>
+
+                <a href="">
+                    <img src="./imagenes/instagram.png" alt="" />
+                </a>
+
+                <a href="">
+                    <img src="./imagenes/email.png" alt="" />
+                </a>
+            </div>
+
+        </seccion>
+
+        <footer>
+            <div class="copyright">© 2022 Aguirre Federico Nicolás</div>
+        </footer>
+
+
+    </div>
+
+    <script src="./archivosJson/comidas.json"></script>
+    <script src="index.js" type="module"></script>
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+$white: hsl(0, 0%, 100%);
+$black: hsl(0, 0%, 0%);
+$darkViolet: hsl(258, 86%, 52%);
+$lightViolet: hsl(276, 91%, 38%);
+$darkblue: hsl(243, 57%, 50%);
+$red: hsl(333, 93%, 40%);
+$bubbleColor: hsl(254, 50%, 51%);
+
+$lightGreen: hsl(154, 91%, 57%);
+$darkGreen: hsl(155, 64%, 49%);
+$darkestGreen: hsl(182, 95%, 16%);
+$greenAlternative: hsl(190, 82%, 19%);
+$skyblue: hsl(188, 100%, 48%);
+
+$normalFont: 1em;
+$bigFont: 1.5em;
+$biggerFont: 2em;
+
+$shadow: 6px 6px 20px 3px $darkViolet;
+$shadowLight: 0 0 2em 0.5em $darkViolet;
+
+$bigSize: scale(1.2);
+$transitionDelay: all 0.25s ease-in;
